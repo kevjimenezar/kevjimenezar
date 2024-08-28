@@ -27,12 +27,12 @@ You can click the Preview link to take a look at your changes.
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  <a href="www.linkedin.com/in/kevinjimenezar/" target="_blank">
+  <a href="https://www.linkedin.com/in/kevinjimenezar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon" height="50" width="50" />
   </a>
   <a href="mailto:kevin.jimenez.ara@gmail.com" target="_blank">
@@ -40,4 +40,5 @@ You can click the Preview link to take a look at your changes.
   </a>
   <!-- Añade más enlaces si los necesitas -->
 </p>
+
 
