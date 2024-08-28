@@ -10,12 +10,14 @@
 kevjimenezar/kevjimenezar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinjimenezar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn icon" height="50" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon" height="30"/>
   </a>
   <a href="mailto:kevin.jimenez.ara@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail icon" height="50" width="50" />
+    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon" height="30"/>
   </a>
   <!-- Añade más enlaces si los necesitas -->
 </p>
