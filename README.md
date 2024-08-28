@@ -11,6 +11,8 @@ kevjimenezar/kevjimenezar is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<img alt="Night Coding" src="https://github.com/kevjimenezar/kevjimenezar/raw/main/Banner LinkedIn(2).png" align="center"/>
+<h2>Hey there! I'm Aditya</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinjimenezar/" target="_blank">
