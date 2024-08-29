@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
     <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Developer badge" height="30"/>
     <img src="https://img.shields.io/badge/MySQL-%234B8BBE.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" height="30"/>
     <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman badge" height="30"/>
+    <img src="https://img.shields.io/badge/Selenium-%234B76A1.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium badge" height="30"/>
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge" height="30"/>
     <img src="https://img.shields.io/badge/Docker-%2300C6F7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" height="30"/>
     <img src="https://img.shields.io/badge/VMware-%233B7DD8.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware badge" height="30"/>
