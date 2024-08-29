@@ -1,8 +1,8 @@
-<!-- Banner Image-->
+<!-- Banner -->
 <img alt="Night Coding" src="https://github.com/kevjimenezar/kevjimenezar/raw/main/BannerGit.png" />
 <h2 style="text-align: center;">Hello! I'm Kevin Jiménez</h2>
 
-
+<!-- Introduction -->
 Welcome to my GitHub profile! I am a passionate **Software Engineer** with a strong background in various programming languages, frameworks, and tools. I thrive on solving complex problems and continuously improving my skills.
 
 ## 🚀 About Me
@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
     <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge" height="30"/>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" height="30"/>
 </p>
-
 <h3>🗄️Databases & Tools</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/SQL-%234B8BBE.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL badge" height="30"/>
@@ -52,7 +51,6 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
     <img src="https://img.shields.io/badge/Packet%20Tracer-%2300A3E0.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer badge" height="30"/>
     <img src="https://img.shields.io/badge/IIS-%2357A3A3.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Internet Information Services badge" height="30"/>
 </p>
-
 <h3>🛠️Agile & Development</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Scrum%20Fundamentals%20Certified%20(SFC)-%23F4A300.svg?style=for-the-badge&logo=scrum&logoColor=white" alt="SFC badge" height="30"/>
@@ -60,11 +58,6 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
   <img src="https://img.shields.io/badge/Scrum%20Master-%2300B2A9.svg?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum Master badge" height="30"/>
     <img src="https://img.shields.io/badge/Software%20Developer-%2329B0E0.svg?style=for-the-badge&logo=developer&logoColor=white" alt="Software Developer badge" height="30"/>
 </p>
-
-
-
-
-
 
 
 <!-- Contact -->
