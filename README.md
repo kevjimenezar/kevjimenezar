@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img alt="Night Coding" src="https://github.com/kevjimenezar/kevjimenezar/raw/main/BannerGit.png" />
+<img alt="Night Coding" src="BannerGit.png" />
 <h2 style="text-align: center;">Hello! I'm Kevin Jiménez</h2>
 
 <!-- Introduction -->
